@@ -1,0 +1,20 @@
+{
+  "name": "Socle",
+  "short_name": "Socle",
+  "description": "Muscu au poids du corps et nutrition petit budget. Sans compte, sans pub.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#121A2B",
+  "theme_color": "#121A2B",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
