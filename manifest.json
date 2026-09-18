@@ -1,7 +1,7 @@
 {
   "name": "Socle",
   "short_name": "Socle",
-  "description": "Muscu au poids du corps et nutrition petit budget. Sans compte, sans pub.",
+  "description": "Muscu au poids du corps (programmes modulables) et nutrition petit budget. Sans compte, sans pub.",
   "lang": "fr",
   "start_url": "./",
   "scope": "./",

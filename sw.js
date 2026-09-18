@@ -1,4 +1,4 @@
-const CACHE = 'socle-0.1.0';
+const CACHE = 'socle-0.2.0';
 const SHELL = ['./', './index.html', './manifest.json', './icon-512.png'];
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(SHELL)));
